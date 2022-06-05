@@ -13,8 +13,7 @@ For this project, we refactor a fully functioning Google Books API search engine
 # Run and Usage
 As a user, feel free to create an acccounr and search for your favorite books. Then, saved the books you liked and storage their information on your profile.
 
-Link to deployed project: [Open Book-Search](https://wau00.github.io/Portfolio-React-HW-19/).
-
+Link to deployed project: [Open Book-Search](https://frozen-everglades-20734.herokuapp.com/)
 
 
 # Webpage Preview
